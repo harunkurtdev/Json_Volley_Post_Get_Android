@@ -1,0 +1,44 @@
+[
+	{
+		"ad":"Android Eğitimi",
+		"toplam_saat":80,
+		"haftalik_saati":9,
+		"egitmen":"Şerif GÜNGÖR",
+		"yer":"Fatih Bilişim Okulu"
+	},
+	{
+		"ad":"Python Eğitimi",
+		"toplam_saat":120,
+		"haftalik_saati":9,
+		"egitmen":"Erkan Hoca",
+		"yer":"Fatih Bilişim Okulu"
+	},
+	{
+		"ad":"PHP Eğitimi",
+		"toplam_saat":140,
+		"haftalik_saati":9,
+		"egitmen":"Mustafa Yılmaz",
+		"yer":"Fatih Bilişim Okulu"
+	},
+	{
+		"ad":"Android Eğitimi",
+		"toplam_saat":80,
+		"haftalik_saati":9,
+		"egitmen":"Burhan Gök",
+		"yer":"Fatih Bilişim Okulu"
+	},
+	{
+		"ad":"Android Eğitimi",
+		"toplam_saat":80,
+		"haftalik_saati":9,
+		"egitmen":"Zeki Hoca",
+		"yer":"Fatih Bilişim Okulu"
+	},
+	{
+		"ad":"Wordpress Eğitimi",
+		"toplam_saat":80,
+		"haftalik_saati":9,
+		"egitmen":"Fatih Gök",
+		"yer":"Fatih Bilişim Okulu"
+	}
+]
